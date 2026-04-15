@@ -1,0 +1,18 @@
+# Ignore large data files
+*.csv
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Virtual env
+env/
+.venv/.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+*.csv
+*.html
